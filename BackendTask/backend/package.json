@@ -2,9 +2,6 @@
   "name": "wasserstoff-backendtask",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-    "start": "nodemon app.js"
-  },
   "type": "module",
   "keywords": [],
   "author": "",

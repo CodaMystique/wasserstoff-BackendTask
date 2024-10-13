@@ -1,7 +1,7 @@
 import express from "express";
 import fs from "fs";
 import path from "path";
-import { performance } from "perf_hooks"; // For capturing accurate response times
+import { performance } from "perf_hooks";
 import dotenv from "dotenv";
 
 dotenv.config();
